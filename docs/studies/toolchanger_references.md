@@ -51,6 +51,10 @@ Collected toolchanger and multi-tool designs for study during the Qidi hotend ch
 - https://properprinting.pro/product/dual-extrusion-system-for-creality-printers-aka-the-rocker/
 - https://www.youtube.com/watch?v=OBB5WuhNhWk&t=328s
 
+
+### Oosaka toolchanger ###
+- https://www.printables.com/model/1630327-index-oosaka-vb
+
 ### Lineux (Onshape)
 
 - https://cad.onshape.com/documents/5357b1599e0941b62b60830c/w/6379eab1c1272a33fa100800/e/fc83cd66d8cd95bff3c51da7
