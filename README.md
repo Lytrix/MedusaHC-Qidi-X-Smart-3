@@ -13,8 +13,8 @@ https://cad.onshape.com/documents/925fa174de77be992308194f/w/fca490ea28ff7be80e1
 ## Preview
 
 <p>
-  <img src="Images/Qidi/assembly_overview.png" alt="Assembly overview — gear mechanism and toolhead" height="200">
-  <img src="Images/Qidi/extruder_cross_section.png" alt="Extruder cross-section — gears, spring lever, hotend" height="200">
+  <img src="Images/Qidi%20X3%20Hotend%20Changer.png" alt="Hotend changer assembly — gear mechanism and toolhead" height="220">
+  <img src="Images/Qidi%20X3%20Extruder%20Gear%20Opening%20Housing.png" alt="Extruder gear opening housing — cross-section with spring lever" height="220">
 </p>
 
 ## What this fork changes
