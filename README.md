@@ -20,6 +20,7 @@ https://cad.onshape.com/documents/925fa174de77be992308194f/w/fca490ea28ff7be80e1
 ## What this fork changes
 
 Reuses MedusaHC mechanisms (feeder open/close, sliding pins, magnets) and adapts the carriage, mounts, and coordinates for the Qidi X Smart 3.
+Specifically this mechanical locking mechanism: https://www.youtube.com/shorts/SVzfIDn_Ytc
 
 | Path | Contents |
 |------|----------|
