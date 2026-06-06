@@ -57,6 +57,8 @@ Three gears where the middle gear disengages on reverse rotation and engages on 
 Print head moves to the side, actuating a cam (metal pin) that pushes into place to engage the extruder gears. During a toolhead swap the extruder opens; after swap, move to X position, retract, then extrude to close again.
 
 - https://youtu.be/a6eigeidGSM?si=tk0Kko9sfx38ic4p&t=805
+short demo on closing action
+- https://www.youtube.com/watch?v=BNaSxwZGlgw
 
 ## Small rotary latch
 
